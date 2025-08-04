@@ -1,1 +1,3 @@
-theme: null
+title: "Thought Experiments"
+description: Documenting my AI learning journey
+# theme: minima ← removed or set to null
